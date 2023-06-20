@@ -7,9 +7,8 @@ dependencies:
   - pip
   - pip:
     - jupyter
-    - h5py
     - pandas
-    - python-time
+    - requests
     - argparse
     - tqdm
     - tensorflow==2.4.0
