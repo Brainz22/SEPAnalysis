@@ -8,7 +8,7 @@ Framework and ongoing efforts of the Statistical Study of the Correlation betwee
 3. `SEPlist_full19762022.json` contains information about 267 SEP events. 36 have invalid dates, and 11 have no Active Region number. Thus, we are left with 220 SEP events to work with.
 
 # Run it:
-1. Install environment:
+1. Install environment using your desired environment manager:
 <pre>
  conda env create -f Environment.yml 
 </pre>
